@@ -1,5 +1,5 @@
 <div align="center">
-![Мой кристалл](ART/EON_LOGOTIP2.png)
+![Мой кристалл](EON_LOGOTIP2.png)
 
 Новый мир создадим и при свете свечей,
 
