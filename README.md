@@ -1,6 +1,7 @@
 <div align="center">
-   # EoN
-![Мой кристалл](EON_LOGOTIP2.png)
+<p align="center">
+  <img src="ART/EON_LOGOTIP2.png" width="400" alt="Логотип" />
+</p>
 
 Новый мир создадим и при свете свечей,
 
