@@ -1,0 +1,241 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="6v6p9YCYhuiUIvso0Gx7">
+    <mxGraphModel dx="2527" dy="3402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-4" edge="1" parent="1" source="mrlt3hsJILMUVptn3gZ_-208" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-72" edge="1" parent="1" source="mrlt3hsJILMUVptn3gZ_-208" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mrlt3hsJILMUVptn3gZ_-208" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="основы боя ближним оружием" vertex="1">
+          <mxGeometry height="160" width="180" x="980" y="-2200" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mrlt3hsJILMUVptn3gZ_-209" parent="mrlt3hsJILMUVptn3gZ_-208" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="вы можете использовать любое рубящее или ударно дробящее оружие без помехи&lt;br&gt;&lt;div&gt;Цена: 1&lt;br&gt;Сложность: Нет&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-7" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-25" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-23" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="-1700" />
+              <mxPoint x="1370" y="-1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-28" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="-1700" />
+              <mxPoint x="1672" y="-1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-78" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-79" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-80" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-2" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Правильный хват" vertex="1">
+          <mxGeometry height="160" width="180" x="980" y="-1920" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-3" parent="8QK2xIIUkx8ttQKgxZFL-2" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="+1 КП&lt;br&gt;+1 к попаданию&lt;br&gt;&lt;div&gt;Цена: 1&lt;br&gt;Сложность: Нет&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-74" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-75" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-77" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-82" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-5" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Индивидуальный хват" vertex="1">
+          <mxGeometry height="190" width="180" x="980" y="-1640" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-6" parent="8QK2xIIUkx8ttQKgxZFL-5" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="+1 КП&lt;br&gt;ИЛИ&lt;br&gt;+1 к попаданию&lt;br&gt;ИЛИ&lt;div&gt;+1 к6 урона соответствующего типа&lt;br&gt;&lt;div&gt;Цена: 2&lt;br&gt;Сложность: 15 (Лов.)&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-16" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-19" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-11" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Улучшение атаки" vertex="1">
+          <mxGeometry height="160" width="180" x="1880" y="-1920" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-12" parent="8QK2xIIUkx8ttQKgxZFL-11" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="+1 к попаданию&lt;br&gt;&lt;div&gt;Цена: 1&lt;br&gt;Сложность: Нет&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-14" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Совершенство атаки" vertex="1">
+          <mxGeometry height="160" width="180" x="1880" y="-1360" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-15" parent="8QK2xIIUkx8ttQKgxZFL-14" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="+1 к попаданию&lt;br&gt;ИЛИ&lt;div&gt;+1 действие&lt;br&gt;&lt;div&gt;Цена: 1&lt;br&gt;Сложность: 15 (Лов.)&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-17" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Сосредоточение на атаке" vertex="1">
+          <mxGeometry height="160" width="180" x="2180" y="-1640" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-18" parent="8QK2xIIUkx8ttQKgxZFL-17" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="Одна ваша реакция становится действием&lt;br&gt;&lt;div&gt;Цена: 2&lt;br&gt;Сложность: 13 (Лов.)&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-20" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Мощный удар" vertex="1">
+          <mxGeometry height="160" width="180" x="1280" y="-1920" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-21" parent="8QK2xIIUkx8ttQKgxZFL-20" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="Потратьте реакцию. Удвойте урон от следующей атаки в этом ходу.&lt;br&gt;&lt;div&gt;Цена: 1&lt;br&gt;Сложность:&lt;br&gt;REQ:&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-23" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Финт" vertex="1">
+          <mxGeometry height="190" width="180" x="1280" y="-1640" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-24" parent="8QK2xIIUkx8ttQKgxZFL-23" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="Потратьте малое действие. Бросьте проверку Лов. против 10 + Лов. противника. если ваш бросок больше, враг тратит реакцию&lt;br&gt;&lt;div&gt;Цена: 2&lt;br&gt;Сложность: 13 (Лов.)&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-26" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Удар полумечом" vertex="1">
+          <mxGeometry height="190" width="180" x="1582" y="-1640" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-27" parent="8QK2xIIUkx8ttQKgxZFL-26" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="&lt;div&gt;ТОЛЬКО ДЛЯ КОРОТКОГО ОРУЖИЯ С ОСТРЫМ НАКОНЕЧНИКОМ&lt;br&gt;ваше оружие получает свойство Бронебойность 1 и урон 1к6&lt;/div&gt;&lt;div&gt;Цена: 2&lt;br&gt;Сложность: Нет&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-29" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-30" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-31" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Улучшение защиты" vertex="1">
+          <mxGeometry height="160" width="180" x="-220" y="-1920" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-32" parent="8QK2xIIUkx8ttQKgxZFL-31" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="+1 КП&lt;br&gt;&lt;div&gt;Цена: 1&lt;br&gt;Сложность: Нет&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-33" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Совершенство защиты" vertex="1">
+          <mxGeometry height="160" width="180" x="-220" y="-1360" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-34" parent="8QK2xIIUkx8ttQKgxZFL-33" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="+1 КП&lt;br&gt;ИЛИ&lt;div&gt;+1 Реакция&lt;br&gt;&lt;div&gt;Цена: 3&lt;br&gt;Сложность: 15 (Лов.)&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-35" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Сосредоточение на защите" vertex="1">
+          <mxGeometry height="160" width="180" x="-520" y="-1640" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-36" parent="8QK2xIIUkx8ttQKgxZFL-35" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="одно ваше действие становится реакцией&lt;br&gt;&lt;div&gt;Цена: 2&lt;br&gt;Сложность: 13 (Лов.)&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-48" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-46" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-37" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Верхняя стойка" vertex="1">
+          <mxGeometry height="160" width="180" x="680" y="-1640" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-38" parent="8QK2xIIUkx8ttQKgxZFL-37" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="Бонусы стойки&lt;br&gt;+2 к попаданию&lt;br&gt;-2 КП&lt;div&gt;+ 1к6 урон&lt;br&gt;&lt;div&gt;Цена: 2&lt;br&gt;Сложность: Нет&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-55" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-40" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-40" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Средняя стойка" vertex="1">
+          <mxGeometry height="160" width="180" x="380" y="-1640" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-41" parent="8QK2xIIUkx8ttQKgxZFL-40" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="Бонусы стойки&lt;div&gt;+2 КП&lt;br&gt;&lt;div&gt;Цена: 2&lt;br&gt;Сложность: Нет&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-58" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-43" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-43" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Задняя стойка" vertex="1">
+          <mxGeometry height="160" width="180" x="80" y="-1640" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-44" parent="8QK2xIIUkx8ttQKgxZFL-43" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="+4 к попаданию&lt;div&gt;-2 КП&lt;br&gt;&lt;div&gt;Цена: 2&lt;br&gt;Сложность: Нет&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-46" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Идеальная верхняя стойка" vertex="1">
+          <mxGeometry height="190" width="180" x="680" y="-1360" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-47" parent="8QK2xIIUkx8ttQKgxZFL-46" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="модификатор бонуса стойки&lt;br&gt;+2 к попаданию&lt;br&gt;ИЛИ&lt;br&gt;+2 КП&lt;br&gt;ИЛИ&lt;div&gt;+ 1к6 урон&lt;br&gt;&lt;div&gt;Цена: 3&lt;br&gt;Сложность: 15 (Лов.)&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-49" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Боевое маневрирование" vertex="1">
+          <mxGeometry height="200" width="180" x="1280" y="-1360" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-50" parent="8QK2xIIUkx8ttQKgxZFL-49" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="Частью атаки вы можете перемемтиться не далее 3 метров не отходя от противника. вы не провоцируете атаки от этого противника&lt;br&gt;&lt;div&gt;Цена: 3&lt;br&gt;Сложность: 15 (Лов.)&lt;br&gt;REQ: Проворство&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-52" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-53" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="Идеальная средняя стойка" vertex="1">
+          <mxGeometry height="190" width="180" x="380" y="-1360" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-54" parent="8QK2xIIUkx8ttQKgxZFL-53" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="модификатор бонуса стойки&lt;br&gt;+2 КП&lt;br&gt;ИЛИ&lt;br&gt;Не теряет стойку при получении удара&lt;br&gt;&lt;div&gt;&lt;div&gt;Цена: 3&lt;br&gt;Сложность: 15 (Лов.)&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-56" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#6D1F00;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;labelBackgroundColor=none;fillColor=light-dark(#A0522D,#D2BA93);" value="идеальная задняя стойка" vertex="1">
+          <mxGeometry height="190" width="180" x="80" y="-1360" as="geometry">
+            <mxRectangle height="50" width="80" x="40" y="1920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-57" parent="8QK2xIIUkx8ttQKgxZFL-56" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontColor=#143642;labelBackgroundColor=none;" value="модификатор бонуса стойки&lt;br&gt;+2 КП&lt;br&gt;ИЛИ&lt;br&gt;+ 1к8 дробящего урона&lt;br&gt;-2 КП&lt;br&gt;&lt;div&gt;Цена: 3&lt;br&gt;Сложность: 15 (Лов.)&lt;br&gt;REQ:&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-73" edge="1" parent="1" source="mrlt3hsJILMUVptn3gZ_-209" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-76" edge="1" parent="1" source="8QK2xIIUkx8ttQKgxZFL-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QK2xIIUkx8ttQKgxZFL-81" edge="1" parent="1" source="mrlt3hsJILMUVptn3gZ_-209" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" target="8QK2xIIUkx8ttQKgxZFL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
